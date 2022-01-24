@@ -98,7 +98,7 @@ public class itindustry extends resources {
 		
 		Assert.assertTrue(verify.accept().isDisplayed());
 			
-		
+		System.out.println("new age year");
 
 	}
 
